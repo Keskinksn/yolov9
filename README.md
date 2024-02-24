@@ -7,7 +7,7 @@ Implementation of paper - [YOLOv9: Learning What You Want to Learn Using Program
 
 <div align="center">
     <a href="./">
-        <img src="./figure/performance.png" width="79%"/>
+        <img src="./fperformance.png" width="79%"/>
     </a>
 </div>
 
